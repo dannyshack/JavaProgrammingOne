@@ -39,6 +39,7 @@ public class C8_4 {
      *
      * @param array the array
      * @param i the row
+     * @return total of each line
      */
     public static int total(int array[][], int i) {
         int tot = 0;
